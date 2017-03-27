@@ -13,6 +13,4 @@ Course contains:
   - Basic
   - Intermediate
 - jQuery
-  -Basic
-  -Intermediate
-- Nodejs
+  - Basic
